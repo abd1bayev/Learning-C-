@@ -34,8 +34,8 @@
 using namespace std;
 
 int main() {
-    
-    int f = 2;
+
+    int f = 4;
     int s = 1; 
 
     for (int i = 2; i <= f; i++) {
@@ -45,6 +45,6 @@ int main() {
     cout << "Faktorial " << f << " hisoblanadi: " << s << endl;
 
     return 0;
-    
+
 }
 
