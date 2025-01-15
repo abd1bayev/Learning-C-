@@ -30,3 +30,11 @@ int main() {
 
     return 0;
 }
+
+
+/* Foydalanish:
+
+    Dastur ishga tushirilganda  n ni kiriting !
+    Ekranga [2,n]  oraligidagi barcha tub sonlar chiqadi.
+    
+ */
