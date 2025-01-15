@@ -26,3 +26,12 @@ int main() {
 
     return 0;
 }
+
+
+/* Foydalanish:
+
+    Dastur ishga tushirilganda n ni kiritasiz.
+    Keyin n ta haqiqiy sonni ketma-ket kiriting.
+    Natijada manfiy sonlarning soni ekranga chiqariladi.
+
+*/
