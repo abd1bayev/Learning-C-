@@ -32,9 +32,18 @@ int main() {
 
 
 
-/* Foydalanish:
+/* 
+
+Foydalanish:
 
     Dastur ishga tushirilganda  n ni kiriting !
     Ekranga [2,n]  oraligidagi barcha tub sonlar chiqadi.
+
+Masalan:
+
+    n ni kiriting (n > 2): 10
+    
+    [2, 10] oraligidagi tub sonlar: 2 3 5 7
+
     
  */
