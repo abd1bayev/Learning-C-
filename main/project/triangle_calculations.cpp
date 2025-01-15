@@ -28,3 +28,12 @@ int main() {
 
     return 0;
 }
+
+/* Izoh:
+
+Foydalanish:
+Dasturga ikki tomon uzunliklarini va ular orasidagi burchakni kiriting.
+Natijada uchinchi tomon va uchburchak yuzasi ekranda chiqadi.
+
+
+ */
