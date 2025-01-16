@@ -29,7 +29,7 @@ int main() {
 
 
 /* 
-Savol: 
+Savol: 7-masala 6-topshiriq 
 Butun n (n>0) va n ta haqiqiy sonlar berilgan. Ular orasidan manfiylari
 nechtaligi aniqlansin.
 
