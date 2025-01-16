@@ -69,11 +69,13 @@ int main() {
 
 
 /*
-int x[50];
-bool t;
-Berilgan x vektorning elementlari orasida quyidagi sonlar bor yoki
-yo‘qligiga qarab t o‘zgaruvchiga true yoki false qiymat berilsin:
-a) kamida bitta Fibonachchi soni;
-b) kamida ikkita ikkining darajasi ko‘rinishidagi son.
+Savol: 
+
+    int x[50];
+    bool t;
+    Berilgan x vektorning elementlari orasida quyidagi sonlar bor yoki
+    yo‘qligiga qarab t o‘zgaruvchiga true yoki false qiymat berilsin:
+    a) kamida bitta Fibonachchi soni;
+    b) kamida ikkita ikkining darajasi ko‘rinishidagi son.
 
 */
