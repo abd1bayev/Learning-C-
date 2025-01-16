@@ -29,7 +29,14 @@ int main() {
     return 0;
 }
 
-/* Izoh:
+/* 
+
+Savol : 
+    Berilgan ikki tomoni va ular orasidagi burchak (gradusda) asosida
+uchburchakning uchinchi tomoni va yuzasi topilsin.
+
+
+ Izoh:
 
     Uchburchakning uchinchi tomon uzunligini va yuzasini hisoblash uchun yozilgan. 
     Bunda kosinus teoremasi va trigonometrik formulalarni qo‘lladim.

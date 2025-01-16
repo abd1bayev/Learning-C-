@@ -33,6 +33,8 @@ int main() {
 
 
 /* 
+Savol: 
+[2,n] (n>2) oraligidagi barcha tub sonlar chop etilsin. 
 
 Foydalanish:
 

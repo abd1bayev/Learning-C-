@@ -28,7 +28,13 @@ int main() {
 }
 
 
-/* Foydalanish:
+/* 
+Savol: 
+Butun n (n>0) va n ta haqiqiy sonlar berilgan. Ular orasidan manfiylari
+nechtaligi aniqlansin.
+
+
+Foydalanish:
 
     Dastur ishga tushirilganda n ni kiritasiz.
     Keyin n ta haqiqiy sonni ketma-ket kiriting.
