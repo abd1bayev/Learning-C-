@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int x[50], n;
     bool t = false; // Tashqi shartni boshqarish uchun
-    int powerOfTwoCount = 0; // Ikkining darajasi bo'lgan sonlarni sanash uchun
+    int number = 0; // Ikkining darajasi bo'lgan sonlarni sanash uchun
 
     cout << "Vektor elementlari sonini kiriting: ";
     cin >> n;
@@ -20,9 +20,9 @@ int main() {
         if (b == num) t = true; // Agar Fibonachchi soni bo'lsa, t = true
 
         // Ikkining darajasi bo'lgan sonni tekshirish
-        if (num > 0 && (num & (num - 1)) == 0) powerOfTwoCount++;
+        if (num > 0 && (num & (num - 1)) == 0) number++;
 
-        if (t || powerOfTwoCount >= 2) break; // Shart bajarilsa, sikldan chiqish
+        if (t || number >= 2) break; // Shart bajarilsa, sikldan chiqish
     }
 
     cout << "t = " << (t ? "true" : "false") << endl;
